@@ -2,12 +2,12 @@
 ENABLE_DIRECT_MESSAGES=false
 
 # Discord BOT Credentials from "Discord Developer Portal"
-DISCORD_CLIENT_ID=
-DISCORD_BOT_TOKEN=
+DISCORD_CLIENT_ID=1045721917543415819
+DISCORD_BOT_TOKEN=MTA0NTcyMTkxNzU0MzQxNTgxOQ.Go4Y7g.cWIjdOr2oJkkViyzxw1RF-EptfNqObiV3C3XoM
 
 # If you use puppeteer
-OPENAI_EMAIL=
-OPENAI_PASSWORD=
+OPENAI_EMAIL=hamzahkontol11@gmail.com
+OPENAI_PASSWORD=slametwkw
 
 # If you don't use Puppeteer [not recommended]
 USER_AGENT=
